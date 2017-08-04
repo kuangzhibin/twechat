@@ -1,0 +1,19 @@
+{
+  "name": "twechat",
+  "version": "1.0.0",
+  "description": "test wechat",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kuangkwan@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.0",
+    "koa": "^2.3.0",
+    "raw-body": "^2.2.0",
+    "request": "^2.81.0",
+    "sha1": "^1.1.1",
+    "xml2js": "^0.4.17"
+  }
+}
